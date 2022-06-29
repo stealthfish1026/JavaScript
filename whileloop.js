@@ -40,4 +40,6 @@ console.log (fruits)
 console.log (typeof cars)
 console.log (fruits instanceof Array)
 
+console.log(fruits)
+//Added this line of code
 
